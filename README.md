@@ -372,7 +372,7 @@ You'll know you're successful when:
 **Instructors:** 
 - Seif Zakaria
 - Ahmed Khalid
-- Beshoy Ehab
+- Bishoy Ehab
 - Mohamed Nasser
 
 **A Project of the Resonance Committee**
