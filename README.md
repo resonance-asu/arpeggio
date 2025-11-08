@@ -42,8 +42,8 @@ For optimal dependency management, we recommend using `uv`:
 
 1. **Clone the repository:**
    ```bash
-   git clone [repository_url]
-   cd [repository_name]
+   git clone git@github.com:seifzellaban/arpeggio.git
+   cd arpeggio
    ```
 
 2. **Install dependencies & Run:**
